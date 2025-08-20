@@ -1,6 +1,6 @@
 # 🍔 React Food Ordering App
 
-A food ordering web application built using **ReactJS** as part of [Maximilian Schwarzmüller’s React course](https://www.udemy.com/course/react-the-complete-guide/).  
+A food ordering web application built using **ReactJS** . 
 This project demonstrates React fundamentals including **state management, props, context API, portals, and handling forms**.
 
 ---
